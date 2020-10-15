@@ -1,0 +1,60 @@
+{
+    "name": "angular-full-pack",
+    "displayName": "Angular Full Pack",
+    "description": "Set of the best extensions to work with angular and increase your productivity!",
+    "publisher": "lucasfarias",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "angular-brands.png",
+    "galleryBanner": {
+        "color": "#030518",
+        "theme": "dark"
+    },
+    "keywords": [
+        "angular",
+        "pack",
+        "typescript",
+        "essentials",
+        "productivity"
+    ],
+    "repository": {
+        "url": "https://github.com/luucasfarias/angular-full-pack"
+    },
+    "homepage": "https://github.com/luucasfarias/angular-full-pack",
+    "bugs": {
+        "url": "https://github.com/luucasfarias/angular-full-pack/issues"
+    },
+    "extensionPack": [ 
+        "johnpapa.angular2",
+        "angular.ng-template",
+        "uvbrain.angular2",
+        "angulardoc.angulardoc-vscode",
+        "infinity1207.angular2-switcher",
+        "cyrilletuzi.angular-schematics",
+        "simontest.simontes",
+        "coenraads.bracket-pair-colorizer-2",
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "alefragnani.bookmarks",
+        "naumovs.color-highlight",
+        "msjsdiag.debugger-for-chrome",
+        "msjsdiag.debugger-for-edge",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "eamodio.gitlens",
+        "pkief.material-icon-theme",
+        "stringham.move-ts",
+        "eg2.vscode-npm-script",
+        "nrwl.angular-console",
+        "christian-kohler.path-intellisense",
+        "johnpapa.vscode-peacock",
+        "rbbit.typescript-hero"
+    ]
+}
